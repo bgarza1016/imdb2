@@ -1,5 +1,5 @@
 ### Fix IMDB...as a team!
-
+Blah
 In the independent practice sections, throughout the rest of the lesson and the following lab, you'll work with the student next to you to create a working IMDB application by adding code to an existing project and using Git/GitHub to collaborate.  You have been given most of the app, including the views, in the starter code.
 
 Your first job is to make the following commands work, without error:
@@ -36,7 +36,7 @@ An example way to work would be for team members to split the work into differen
 visit_home_page
 ```
 
-or 
+or
 
 ```
 seed_db
